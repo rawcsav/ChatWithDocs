@@ -1,0 +1,959 @@
+google finance academy 1
+By Brian Tayan
+january 8, 2019
+The wells fargo cross-selling
+scandal
+Stanford Closer LOOK series
+introduction
+In recent years, more attention has been paid to corporate
+culture and “tone at the top,” and the impact that these have on
+organizational outcomes. While corporate leaders and outside
+observers contend that culture is a critical contributor to
+employee engagement, motivation, and performance, the nature
+of this relationship and the mechanisms for instilling the desired
+values in employee conduct is not well understood.
+	 For example, a survey by Deloitte finds that 94 percent
+of executives believe that workplace culture is important to
+business success, and 62 percent believe that “clearly defined
+and communicated core values and beliefs” are important.1
+Graham, Harvey, Popadak, and Rajgopal (2016) find evidence
+that governance practices and financial incentives can reinforce
+culture; however, they also find that incentives can work in
+opposition to culture, particularly when they “reward employees
+for achieving a metric without regard to the actions they took to
+achieve that metric.” According to a participant in their study,
+“People invariably will do what you pay them to do even when
+you’re saying something different.”2
+	 The tensions between corporate culture, financial incentives,
+and employee conduct is illustrated by the Wells Fargo crossselling scandal.
+Wells Fargo Culture, Values, and Management
+Wells Fargo has long had a reputation for sound management.
+The company used its financial strength to purchase Wachovia
+during the height of the financial crisis—forming what is now the
+third-largest bank in the country by assets—and emerged from
+the ensuing recession largely unscathed, with operating and stock
+price performance among the top of its peer group (see Exhibit 1).
+Fortune magazine praised Wells Fargo for “a history of avoiding
+the rest of the industry’s dumbest mistakes.”3 American Banker
+called Wells Fargo “the big bank least tarnished by the scandals
+and reputational crises.”4 In 2013, it named Chairman and CEO
+John Stumpf “Banker of the Year.”5 Carrie Tolstedt, who ran the
+company’s vast retail banking division, was named the “Most
+Powerful Woman in Banking.”6 In 2015, Wells Fargo ranked 7th
+on Barron’s list of “Most Respected Companies.”7
+Wells Fargo’s success is built on a cultural and economic model
+that combines deep customer relations with an actively engaged
+sales culture. The company’s operating philosophy includes the
+following elements:
+Vision and values. Wells Fargo’s vision is to “satisfy our
+customers’ needs, and help them succeed financially.” The
+company emphasizes that:
+Our vision has nothing to do with transactions, pushing products,
+or getting bigger for the sake of bigness. It’s about building lifelong
+relationships one customer at a time. … We strive to be recognized
+by our stakeholders as setting the standard among the world’s great
+companies for integrity and principled performance. This is more
+than just doing the right thing. We also have to do it in the right
+way.8
+The company takes these statements seriously. According to
+Stumpf, “[Our vision] is at the center of our culture, it’s important
+to our success, and frankly, it’s been probably the most significant
+contributor to our long-term performance.”9 … “If I have any one
+job here, it’s keeper for the culture.”10
+Cross-selling. The more products that a customer has with
+Wells Fargo, the more information the bank has on that customer,
+allowing for better decisions about credit, products, and pricing.
+Customers with multiple products are also significantly more
+profitable (see Exhibit 2). According to Stumpf:
+To succeed at it [cross-selling], you have to do a thousand things
+right. It requires long-term persistence, significant investment
+in systems and training, proper team member incentives and
+recognition, [and] taking the time to understand your customers’
+financial objectives.11
+Conservative, stable management. Stumpf’s senior
+management team consisted of 11 direct reports with an average
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 2
+of 27 years of experience at Wells Fargo.12 Decisions are made
+collectively. According to former CEO Richard Kovacevich, “No
+single person has ever run Wells Fargo and no single person
+probably ever will. It’s a team game here.”13 Although the company
+maintains independent risk and oversight mechanisms, all senior
+leaders are responsible for ensuring that proper practices are
+embedded in their divisions:
+The most important thing that we talk about inside the company
+right now is that the lever that we have to manage our reputation
+is to stick to our vision and values. If we are doing things for our
+customers that are the right things, then the company is going to be
+in very good shape. … We always consider the reputational impact
+of the things that we do. There is no manager at Wells Fargo who
+is responsible for reputation risk. All of our business managers in
+all of our lines of business are responsible.14
+Wells Fargo has been listed among Gallup’s “Great Places to Work”
+for multiple years, with employee engagement scores in the top
+quintile of U.S. companies.
+cross-selling scandal
+In 2013, rumors circulated that Wells Fargo employees in Southern
+California were engaging in aggressive tactics to meet their
+daily cross-selling targets.15 According to the Los Angeles Times,
+approximately 30 employees were fired for opening new accounts
+and issuing debit or credit cards without customer knowledge,
+in some cases by forging signatures. “We found a breakdown in
+a small number of our team members,” a Wells Fargo spokesman
+stated. “Our team members do have goals. And sometimes they
+can be blinded by a goal.”16 According to another representative,
+“This is something we take very seriously. When we find lapses,
+we do something about it, including firing people.”17
+Some outside observers alleged that the bank’s practice of
+setting daily sales targets put excessive pressure on employees.
+Branch managers were assigned quotas for the number and types
+of products sold. If the branch did not hit its targets, the shortfall
+was added to the next day’s goals. Branch employees were
+provided financial incentive to meet cross-sell and customerservice targets, with personal bankers receiving bonuses up to 15
+to 20 percent of their salary and tellers receiving up to 3 percent.
+	 Tim Sloan, at the time chief financial officer of Wells Fargo,
+refuted criticism of the company’s sales system: “I’m not aware of
+any overbearing sales culture.”18 Wells Fargo had multiple controls
+in place to prevent abuse. Employee handbooks explicitly stated
+that “splitting a customer deposit and opening multiple accounts
+for the purpose of increasing potential incentive compensation is
+considered a sales integrity violation.”19 The company maintained
+an ethics program to instruct bank employees on spotting and
+addressing conflicts of interest. It also maintained a whistleblower
+hotline to notify senior management of violations. Furthermore,
+the senior management incentive system had protections consistent
+with best practices for minimizing risk, including bonuses tied to
+instilling the company’s vision and values in its culture, bonuses
+tied to risk management, prohibitions against hedging or pledging
+equity awards, hold-past retirement provisions for equity awards,
+and numerous triggers for clawbacks and recoupment of bonuses
+in cases where they were inappropriately earned (see Exhibit 3). Of
+note, cross-sales and products-per-household were not included
+as specific performance metrics in senior executive bonus
+calculations even though they were for branch-level employees.20
+	 In the end, these protections were not sufficient to stem a
+problem that proved to be more systemic and intractable than
+senior management realized. In September 2016, Wells Fargo
+announced that it would pay $185 million to settle a lawsuit filed
+by regulators and the city and county of Los Angeles, admitting
+that employees had opened as many as 2 million accounts without
+customer authorization over a five-year period.21 Although
+large, the fine was smaller than penalties paid by other financial
+institutions to settle crisis-era violations. Wells Fargo stock
+price fell 2 percent on the news (see Exhibit 4). Richard Cordray,
+director of the Consumer Financial Protection Bureau, criticized
+the bank for failing to
+… monitor its program carefully, allowing thousands of employees
+to game the system and inflate their sales figures to meet their sales
+targets and claim higher bonuses under extreme pressure. Rather
+than put its customers first, Wells Fargo built and sustained a
+cross-selling program where the bank and many of its employees
+served themselves instead, violating the basic ethics of a banking
+institution including the key norm of trust.22
+A Wells Fargo spokesman responded that, “We never want products,
+including credit lines, to be opened without a customer’s consent
+and understanding. In rare situations when a customer tells us
+they did not request a product they have, our practice is to close it
+and refund any associated fees.”23 In a release, the banks said that,
+“Wells Fargo is committed to putting our customers’ interests first
+100 percent of the time, and we regret and take responsibility for
+any instances where customers may have received a product that
+they did not request.”24
+The bank announced a number of actions and remedies,
+several of which had been put in place in preceding years. The
+company hired an independent consulting firm to review all
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 3
+account openings since 2011 to identify potentially unauthorized
+accounts. $2.6 million was refunded to customers for fees
+associated with those accounts. 5,300 employees were terminated
+over a five-year period.25 Carrie Tolstedt, who led the retail
+banking division, retired. Wells Fargo eliminated product sales
+goals and reconfigured branch-level incentives to emphasize
+customer service rather than cross-sell metrics.26 The company
+also developed new procedures for verifying account openings
+and introduced additional training and control mechanisms to
+prevent violations.27
+Nevertheless, in subsequent weeks, senior management
+and the board of directors struggled to find a balance between
+recognizing the severity of the bank’s infractions, admitting fault,
+and convincing the public that the problem was contained. They
+emphasized that the practice of opening unauthorized accounts
+was confined to a small number of employees: “99 percent of the
+people were getting it right, 1 percent of people in community
+banking were not. … It was people trying to meet minimum goals
+to hang on to their jobs.”28 They also asserted that these actions
+were not indicative of the broader culture:
+I want to make very clear that we never directed nor wanted our
+team members to provide products and services to customers that
+they did not want. That is not good for our customers and that is
+not good for our business. It is against everything we stand for as
+a company.29
+If [employees] are not going to do the thing that we ask them to
+do—put customers first, honor our vision and values—I don’t want
+them here. I really don’t. … The 1 percent that did it wrong, who
+we fired, terminated, in no way reflects our culture nor reflects the
+great work the other vast majority of the people do. That’s a false
+narrative.30
+They also pointed out that the financial impact to the customer
+and the bank was extremely limited. Of the 2 million potentially
+unauthorized accounts, only 115,000 incurred fees; those fees
+totaled $2.6 million, or an average of $25 per account, which the
+bank had refunded. Affected customers did not react negatively:
+We’ve had very, very low volumes of customer reaction since that
+happened. … We sent 115,000 letters out to people saying that you
+may have a product that you didn’t want and here is the refund of
+any fees that you incurred as a result of it. And we got very little
+feedback from that as well.31
+The practice also did not have a material impact on the company’s
+overall cross-sell ratios, increasing the reported metric by a
+maximum of 0.02 products per household.32 According to one
+executive, “The story line is worse than the economics at this
+point.”33
+	 Nevertheless, although the financial impact was trivial, the
+reputational damage proved to be enormous. When CEO John
+Stumpf appeared before the U.S. Senate, the narrative of the
+scandal changed significantly. Senators criticized the company for
+perpetuating fraud on its customers, putting excessive pressure
+on low-level employees, and failing to hold senior management
+responsible. In particular, they were sharply critical that the board
+of directors had not clawed back significant pay from John Stumpf
+or former retail banking head Carrie Tolstedt, who retired earlier
+in the summer with a pay package valued at $124.6 million.34
+Senator Elizabeth Warren of Massachusetts told Stumpf:
+You know, here’s what really gets me about this, Mr. Stumpf.
+If one of your tellers took a handful of $20 bills out of the cash
+drawer, they’d probably be looking at criminal charges for theft.
+They could end up in prison. But you squeezed your employees to
+the breaking point so they would cheat customers and you could
+drive up the value of your stock and put hundreds of millions of
+dollars in your own pocket. And when it all blew up, you kept your
+job, you kept your multimillion dollar bonuses, and you went on
+television to blame thousands of $12-an-hour employees who were
+just trying to meet cross-sell quotas that made you rich. This is
+about accountability. You should resign. You should give back the
+money that you took while this scam was going on, and you should
+be criminally investigated by both the Department of Justice and
+the Securities and Exchange Commission.35
+Following the hearings, the board of directors announced that
+it hired external counsel Shearman & Sterling to conduct an
+independent investigation of the matter. Stumpf was asked to
+forfeit $41 million and Tolstedt $19 million in outstanding,
+unvested equity awards. It was one of the largest clawbacks of
+CEO pay in history and the largest of a financial institution. The
+board stipulated that additional clawbacks might occur. Neither
+executive would receive a bonus for 2016, and Stumpf agreed to
+forgo a salary while the investigation was underway.36
+Two weeks later, Stumpf resigned without explanation. He
+received no severance and reiterated a commitment not to sell
+shares during the investigation. The company announced that
+it would separate the chairman and CEO roles.37 Tim Sloan,
+chief operating officer, became CEO. Lead independent director
+Stephen Sanger became nonexecutive chairman; and Elizabeth
+Duke, director and former Federal Reserve governor, filled a
+newly created position as vice chairman.
+Independent Investigation Report
+In April 2017, the board of directors released the results of its
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 4
+independent investigation which sharply criticized the bank’s
+leadership, sales culture, performance systems, and organizational
+structure as root causes of the cross-selling scandal (see Exhibit 5).
+Performance and incentives. The report faulted the company’s
+practice of publishing performance scorecards for creating
+“pressure on employees to sell unwanted or unneeded products to
+customers and, in some cases, to open unauthorized accounts.”38
+Employees “feared being penalized” for failing to meet goals, even
+in situations where these goals were unreasonably high:
+In many instances, community bank leadership recognized that
+their plans were unattainable. They were commonly referred to as
+50/50 plans, meaning that there was an expectation that only half
+the regions would be able to meet them.
+The head of strategic planning for the community bank was
+quoted as saying that the goal-setting process is a “balancing act”
+and recognized that “low goals cause lower performance and high
+goals increase the percentage of cheating.”
+The report also blamed management for, “tolerating low
+quality accounts as a necessary by-product of a sales-driven
+organization.” …
+Management characterized these low quality accounts, including
+products later canceled or never used and products that the
+customer did not want or need, as “slippage” and believed a certain
+amount of slippage was the cost of doing business in any retail
+environment.
+The report faulted management for failing to identify “the
+relationship between the goals and bad behavior [even though]
+that relationship is clearly seen in the data. As sales goals became
+more difficult to achieve, the rate of misconduct rose.” Of note, the
+report found that “employees who engaged in misconduct most
+frequently associated their behavior with sales pressure, rather
+than compensation incentives.”
+Organizational structure. In addition, the report asserted that
+“corporate control functions were constrained by [a] decentralized
+organizational structure” and described the corporate control
+functions as maintaining “a culture of substantial deference to the
+business units.”
+Group risk leaders “took the lead in assessing and addressing
+risk within their business units” and yet were “answerable
+principally to the heads of their businesses.” For example, the
+community bank group risk officer reported directly to the head
+of the community bank and only on a dotted-line basis to the
+central chief risk officer. As a result,
+Risk management … generally took place in the lines of business,
+with the business people and the group risk officers and their staffs
+as the “first line of defense.”
+John Stumpf believed that this system “better managed risk
+by spreading decision-making and produced better business
+decisions because they were made closer to the customer.”39
+The board report also criticized control functions for not
+understanding the systemic nature of sales practice violations:
+Certain of the control functions often adopted a narrow
+“transactional” approach to issues as they arose. They focused
+on the specific employee complaint or individual lawsuit that
+was before them, missing opportunities to put them together in a
+way that might have revealed sales practice problems to be more
+significant and systemic than was appreciated.
+The chief operational risk officer
+did not view sales practices or compensation issues as within
+her mandate, but as the responsibility of the lines of businesses
+and other control functions (the law department, HR, audit and
+investigations). She viewed sales gaming as a known problem that
+was well-managed, contained and small.
+The legal department focused
+principally on quantifiable monetary costs—damages, fines,
+penalties, restitution. Confident those costs would be relatively
+modest, the law department did not appreciate that sales integrity
+issues reflected a systemic breakdown.
+Human resources
+had a great deal of information recorded in its systems, [but] it
+had not developed the means to consolidate information on sales
+practices issues and to report on them.
+The internal audit department
+generally found that processes and controls designed to detect,
+investigate and remediate sales practice violations were effective
+at mitigating sales practices-related risks. … As a general matter,
+however, audit did not attempt to determine the root cause of
+unethical sales practices.
+The report concluded that
+while the advisability of centralization was subject to considerable
+disagreement within Wells Fargo, events show that a strong
+centralized risk function is most suited to the effective management
+of risk.
+Leadership. Furthermore, the board report criticized CEO
+John Stumpf and community banking head Carrie Tolstedt for
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 5
+leadership failures.
+According to the report, Stumpf did not appreciate the scope
+and scale of sales practices violations: “Stumpf’s commitment to
+the sales culture … led him to minimize problems with it, even
+when plausibly brought to his attention.” For example, he did
+not react negatively to learning that 1 percent of employees were
+terminated in 2013 for sales practices violations: “In his view, the
+fact that 1 percent of Wells Fargo employees were terminated
+meant that 99 percent of employees were doing their jobs
+correctly.” Consistent with this, the report found that Stumpf “was
+not perceived within Wells Fargo as someone who wanted to hear
+bad news or deal with conflict.”
+The report acknowledged the contribution that Tolstedt made
+to the bank’s financial performance:
+She was credited with the community bank’s strong financial
+results over the years, and was perceived as someone who ran a
+“tight ship” with everything “buttoned down.” Community bank
+employee engagement and customer satisfaction surveys reinforced
+the positive view of her leadership and management. Stumpf had
+enormous respect for Tolstedt’s intellect, work ethic, acumen and
+discipline, and thought she was the “most brilliant” community
+banker he had ever met.
+At the same time, it was critical of her management style, describing
+her as “obsessed with control, especially of negative information
+about the community bank” and faulting her for maintaining “an
+‘inner circle’ of staff that supported her, reinforced her views, and
+protected her.” She “resisted and rejected the near-unanimous
+view of senior regional bank leaders that the sales goals were
+unreasonable and led to negative outcomes and improper
+behavior.”
+Tolstedt and certain of her inner circle were insular and defensive
+and did not like to be challenged or hear negative information.
+Even senior leaders within the Community Bank were frequently
+afraid of or discouraged from airing contrary views.
+Stumpf “was aware of Tolstedt’s shortcomings as a leader
+but also viewed her as having significant strengths.” … He “was
+accepting of Tolstedt’s flaws in part because of her other strengths
+and her ability to drive results, including cross-sell.”
+Board of Directors. Finally, the report evaluated the process
+by which the board of directors oversaw sales-practice violations
+and concluded that “the board was regularly engaged on the issue;
+however, management reports did not accurately convey the
+scope of the problem.” The report found that
+Tolstedt effectively challenged and resisted scrutiny from both
+within and outside the community bank. She and her group risk
+officer not only failed to escalate issues outside the community
+bank, but also worked to impede such escalation. … Tolstedt
+never voluntarily escalated sales practice issues, and when called
+upon specifically to do so, she and the community bank provided
+reports that were generalized, incomplete, and viewed by many as
+misleading.
+Following the initial Los Angeles Times article highlighting potential
+violations, “sales practices” was included as a “noteworthy risk”
+in reports to the full board and the board’s risk committee.
+Beginning in 2014 and continuing thereafter, the board received
+reports from the community bank, the corporate risk office,
+and corporate human resources that “sales practice issues were
+receiving scrutiny and attention and, by early 2015, that the risks
+associated with them had decreased.”
+Board members expressed the view that “they were
+misinformed” by a presentation made to the risk committee in May
+2015 that underreported the number of employees terminated
+for sales-practice violations, that reports made by Tolstedt to the
+committee in October 2015 “minimized and understated” the
+problem, and that metrics in these reports suggested that potential
+abuses were “subsiding.”
+Following the lawsuit by the Los Angeles City Attorney, the
+board hired a third-party consultant to investigate sales practices
+and conduct an analysis of potential customer harm. The board
+did not learn the total number of employees terminated for
+violations until it was included in the settlement agreement in
+September 2016.
+Wells Fargo response. With the release of the report, Wells
+Fargo announced a series of steps to centralize and strengthen
+control functions. The board also announced that it would claw
+back an additional $47.3 million in outstanding stock option
+awards from Tolstedt and an additional $28 million in previously
+vested equity awards from Stumpf.40
+Long-term Overhang
+The board report and related actions did not put an end to
+shareholder and regulatory pressure. At the company’s 2017
+annual meeting, 9 of the company’s 15 directors received less than
+75 percent support and 4 received less than 60 percent, including
+board chairman Stephen Sanger (56 percent), head of the risk
+committee Enrique Hernandez (53 percent), head of the corporate
+responsibility committee Federico Peña (54 percent), and Cynthia
+Milligan who headed the credit committee (57 percent).41 The
+bank subsequently announced the resignations of 6 directors,
+including Sanger, who was replaced by Elizabeth Duke as board
+chair.
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 6
+Wells Fargo continued its efforts to reexamine all aspects of
+its business. In August 2017, the company increased its estimate
+of the number of potentially unauthorized consumer accounts to
+3.5 million and issued an additional $2.8 million in refunds.42 The
+bank also announced that it identified sales practice violations in
+both its auto and mortgage lending divisions. In February 2018,
+citing “widespread consumer abuses,” the Federal Reserve Board
+took the unprecedented action of placing a strict limit on the
+company’s asset size, forbidding the bank from growing past the
+$1.95 trillion in assets it had at year end until it demonstrated an
+improvement in corporate controls. According to Federal Reserve
+Board Chair Janet Yellen:
+We cannot tolerate pervasive and persistent misconduct at any
+bank and the consumers harmed by Wells Fargo expect that robust
+and comprehensive reforms will be put in place to make certain
+that the abuses do not occur again. The enforcement action we are
+taking today will ensure that Wells Fargo will not expand until it
+is able to do so safely and with the protections needed to manage all
+of its risks and protect its customers.43
+In April 2018, the bank agreed to a $1 billion settlement with
+the Consumer Financial Protection Bureau and the Office of
+the Comptroller of the Currency to resolve auto and mortgage
+lending violations. Two weeks later it agreed to pay $480 million
+to settle a securities class action lawsuit over cross-selling. In
+December 2018, the company settled with 50 state attorneys
+general to resolve civil claims for cross-selling, auto lending, and
+mortgage lending violations and agreed to pay $575 million.
+why this matters
+1. The Wells Fargo compensation system emphasized crossselling as a performance metric for awarding incentive pay to
+employees. The company also published scorecards that ranked
+individual branches on sales metrics, including cross-selling.
+Was the company wrong to use cross-selling as a metric in its
+incentive systems? Would the program have worked better if
+structured differently? The independent report suggests that
+employee pressure was a greater contributor to misconduct
+than financial incentives. Is this assessment correct?
+2. Branch-level employees were incentivized to increase products
+per household but the senior-executive bonus system did not
+include this metric. Did this disconnect contribute to a failure
+to recognize the problem earlier?
+3. Wells Fargo prides itself on its vision and values and culture.
+By several measures, these have been highly beneficial to the
+company’s performance. What factors should senior executives
+consider to ensure that compensation and performance
+systems encourage the achievement of company objectives
+without compromising culture?
+4.	 The dollars involved in the Wells Fargo cross-selling scandal
+were small (less than $6 million in direct fees) but the
+reputational damage to the bank was massive. How can a
+company prepare against problems that do not seem to be
+“material” in a financial sense but ultimately have a material
+impact on the business and its reputation?
+5. The independent investigation concludes that “a strong
+centralized risk function is most suited to the effective
+management of risk.” Is this conclusion correct? What steps can
+executives in a decentralized organization take to minimize
+gaps in oversight without creating unnecessary bureaucracy?
+6. The Wells Fargo cross-selling scandal highlights the challenge
+of a high-performing executive whose behavior ultimately does
+not align with company values. How much autonomy should
+high-performing executives be afforded? How can a company
+balance autonomy and accountability?
+7. The independent investigation largely exonerates the Wells
+Fargo board of directors. How much blame does the board
+deserve? What could it have done differently to prevent the
+cross-selling issue from snowballing?
+8. Wells Fargo had the elements in place of a properly functioning
+governance system, including risk management, audit, legal,
+and human resources. Furthermore, each of these groups was—
+at least to some degree—aware of sales practice violations in
+the consumer bank. And yet no one recognized the systemic
+nature of the problem or took the necessary steps to address
+it. How can a company gauge whether its governance
+system is effective in identifying and mitigating risk? 
+1 Deloitte, “Core Beliefs and Culture: Chairman’s Survey Findings,”
+(2012).
+2 John R. Graham, Campbell R. Harvey, Jillian Popadak, and Shiva
+Rajgopal, “Corporate Culture: Evidence from the Field,” Social Science
+Research Network (2016).
+3 Adam Lashinsky, “Riders on the Storm,” Fortune (May 4, 2009).
+4 Maria Aspan, “Wells Fargo’s John Stumpf, the 2013 Banker of the Year,”
+American Banker (Nov. 21, 2013).
+5 Ibid.
+6 Tolstedt was named to the list continuously from 2003 to 2015 and
+named number 1 in 2010. See Sara Lepro, “Wells’ Tolstedt at Top of
+Power List,” American Banker (Sep. 27, 2010).
+7 Vito J. Racanelli, “Apple Tops Barron’s List of Respected Companies,”
+Barron’s (Jun. 27, 2015).
+8 Wells Fargo’s Vision & Values was written in booklet form in the early
+1990s and is distributed to all employees. See Wells Fargo, “The Vision
+and Values of Wells Fargo,” (Accessed Nov. 1, 2016).
+9 “Wells Fargo & Co. at Goldman Sachs U.S. Financial Services
+Conference,” CQ FD Disclosure (Dec. 8, 2015).
+10 Maria Aspan, loc. cit.
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 7
+11 Wells Fargo, 2010 Annual Report.
+12 Wells Fargo, “Wells Fargo & Co. 2016 Investor Day,” CQ FD Disclosure
+(May 24, 2016).
+13 Maria Aspan, loc. cit.
+14 Pat Callahan, Executive Vice President, “Wells Fargo & Company 2010
+Investor Conference,” CQ FD Disclosure (May 14, 2010).
+15 There is some evidence that employees were discussing sales pressure
+on social media sites, such as Glassdoor, as far back as 2010; however,
+the frequency is modest (less than 10 percent of employee reviews).
+Research by the author.
+16 E. Scott Reckard, “Wells Fargo Fires Workers Accused of Cheating on
+Sales Goals,” Los Angeles Times (Oct. 3, 2013).
+17 E. Scott Reckard, “Wells Fargo’s Pressure-Cooker Sales Culture Comes
+at a Cost,” Los Angeles Times (Dec. 21, 2013).
+18 Ibid.
+19 Cited in Emily Glazer, “How Wells Fargo’s High-Pressure Sales Culture
+Spiraled Out of Control,” The Wall Street Journal (Sep. 16, 2016).
+20	Wells Fargo, Form DEF-14A (Mar. 16, 2016).
+21	The fine comprised of $100 million to the Consumer Financial
+Protection Bureau, $35 million to the Office of Comptroller of the
+Currency, and $50 million to the city and county of Los Angeles. In
+addition, the bank refunded customers for fees they incurred on these
+accounts. Accounts included deposit accounts, checking accounts, debit
+cards, and credit cards. The lawsuit was first filed in 2015. James Rufus
+Koren, “Wells Fargo to Pay $185 Million Settlement for ‘Outrageous’
+Sales Culture,” Los Angeles Times (Sep. 8, 2016).
+22 “Full Committee Hearing on ‘An Examination of Wells Fargo’s
+Unauthorized Accounts and the Regulatory Response,” Federal News
+Service (Sep. 20, 2016).
+23 Emily Glazer, “Wells Fargo to Pay $185 Million Fine Over Account
+Openings,” The Wall Street Journal (Sep. 8, 2016).
+24 Wells Fargo press release, “Wells Fargo Issues Statement on Agreement
+Related to Sales Practices,” BusinessWire (Sep. 8, 2016).
+25 This represented 1 percent per year of the approximately 100,000
+Wells Fargo employees working in retail branches. 10 percent of the
+terminated employees were at the manager level or above. The review
+was subsequently expanded to include 2009 and 2010.
+26 Emily Glazer “Can This Woman Save Wells Fargo’s Consumer Banking
+Business?” The Wall Street Journal (Oct. 19, 2016).
+27 Wells Fargo press release, (Sep. 8, 2016), loc. cit.
+28 CFO John Shrewsberry in “Wells Fargo’s (WFC) Management Presents
+at Barclays Global Financial Services Conference (Transcript),” Seeking
+Alpha (Sep. 13, 2016).
+29 CEO John Stumpf in “Full Committee Hearing on ‘An Examination of
+Wells Fargo’s Unauthorized Accounts and the Regulatory Response,’”
+Federal News Service (Sep. 20, 2016).
+30 CEO John Stumpf in Emily Glazer and Christina Rexrode, “Wells Boss
+Says Staff at Fault for Scams,” The Wall Street Journal (Sep. 14, 2016).
+31 CFO John Shrewsberry in “Wells Fargo’s (WFC) Management Presents
+at Barclays Global Financial Services Conference (Transcript),” loc. cit.
+32 According to CEO Timothy Sloan, “Let me clarify that these accounts
+had a de minimis impact to the retail banking household cross-sell ratio
+that we report on a quarterly basis, with the maximum impact in any one
+quarter of 0.02 products per household or 0.3% of the reported metric.
+At no time were all of the identified accounts included in our reported
+cross-sell ratio because unused deposit accounts rolled off.” See “Wells
+Fargo & Company’s (WFC) CEO Timothy Sloan on Q3 2016 Results—
+Earnings Call Transcript,” Seeking Alpha (Oct. 14, 2016).
+33	CFO John Shrewsberry in Emily Glazer, “Wells Maps a Crisis Plan—
+Executives Say Bank’s Situation Will Get Harder Before It Gets Better
+After Scandal,” The Wall Street Journal (Oct. 12, 2016).
+34 Note that the majority of this compensation represented equity-awards
+accrued over her 27 year tenure with the company and were subject
+to the company’s hold-past-retirement policy. See Exhibit 3 and Wells
+Fargo, Form 8-K (Jul. 12, 2016).
+35 “Full Committee Hearing on ‘An Examination of Wells Fargo’s
+Unauthorized Accounts and the Regulatory Response,’” loc. cit.
+36 Wells Fargo press release, “Independent Directors of Wells Fargo
+Conducting Investigation of Retail Banking Sales Practices and Related
+Matters,” BusinessWire (Sep. 28, 2016).
+37 For more information on the impact of separating the chairman and
+CEO roles see: David F. Larcker and Brian Tayan, “Chairman and CEO:
+The Controversy Over Board Leadership Structure,” Stanford Closer
+Look Series ( Jun. 24, 2016); and David F. Larcker and Brian Tayan,
+“Independent Chairman,” Stanford Quick Guide Series: Research
+Spotlight (Nov. 2015).
+38	Unless otherwise specified, quotations in this section are derived from:
+“Independent Director of the Board of Wells Fargo & Company: Sales
+Practices Investigation Report,” (April 10, 2017), available at: https://
+www.wellsfargo.com/assets/pdf/about/investor-relations/
+presentations/2017/board-report.pdf. Edited lightly for clarity or
+grammar.
+39 Senior executives separately have noted that decentralization is an
+important element of the company’s credit culture and has allowed the
+company to record lower credit losses over multiple economic cycles
+because small dollar loans are made faster and closer to the customer.
+Interview with the author May 2, 2018.
+40 Wells Fargo press release, “Wells Fargo Board Releases Findings of
+Independent Investigation of Retail Banking Sales Practices and Related
+Matters,” BusinessWire (Apr. 10, 2017).
+41	Average support in an uncontested director election is 94 percent.
+According to Institutional Shareholder Services, over the 10 year
+period 2007-2016, approximately 22 directors per year among all S&P
+500 companies received less than 60 percent support, on average. See
+Emily Glazer, “Wells Fargo Directors Face Shareholders’ Ire,” The Wall
+Street Journal (April 26, 2017); and Wells Fargo press release, “Wells
+Fargo Announces Preliminary Voting Results of 2017 Annual Meeting,”
+BusinessWire (April 25, 2017).
+42 The additional accounts resulted from an increase in the scope of
+the years covered, from January 2009 to September 2016. The bank
+noted that its estimate was conservative and likely included properly
+authorized accounts: “The analysis was data-driven and looked at
+account usage patterns. Since usage patterns of some authorized
+accounts opened with a customer’s consent can be similar to some
+unauthorized accounts, it is likely that some properly authorized
+accounts were included in the population identified as unauthorized
+accounts.” Wells Fargo press release, “Wells Fargo Reports Completion
+of Expanded Third-Party Review of Retail Banking Accounts, Paving
+Way to Complete Remediation Effort,” BusinessWire (August 31, 2017).
+43 Federal Reserve press release, “Responding to widespread consumer
+abuses and compliance breakdowns by Wells Fargo, Federal Reserve
+restricts Wells’ growth until firm improves governance and controls.
+Concurrent with Fed action, Wells to replace three directors by April,
+one by year end,” (February 2, 2018).
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 8
+Brian Tayan is a researcher with the Corporate Governance Research
+Initiative at the Stanford Graduate School of Business and a member of
+the Rock Center for Corporate Governance at Stanford University. He
+is coauthor of the books Corporate Governance Matters and A Real
+Look at Real World Corporate Governance. He would like to
+thank Michelle E. Gutman for research assistance in the preparation of
+these materials.
+The Stanford Closer Look Series is a collection of short case
+studies that explore topics, issues, and controversies in corporate
+governance and leadership. The Closer Look Series is published
+by the Corporate Governance Research Initiative at the Stanford
+Graduate School of Business and the Rock Center for Corporate
+Governance at Stanford University. For more information, visit:
+http:/www.gsb.stanford.edu/cgri-research.
+Copyright © 2019 by the Board of Trustees of the Leland Stanford Junior
+University. All rights reserved.
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 9
+Exhibit 1 — wells fargo: selected performance metrics
+As of March 21, 2016, rounded to the nearest percentage.
+total shareholder return
+7% 6% 6% 5%
+-10%
+-20%
+-3%
+12%
+8%
+12%
+9%
+1%
+-1%
+7%
+12%
+11%
+9%
+11%
+4%
+-2%
+7%
+Wells
+Fargo
+JP Morgan US Bank PNC Bank of
+America
+Citigroup KBW Bank
+Avg
+Annualized TSR
+10 Year
+5 Year
+3 Year
+Relation Between Returns and Volatility
+Wells
+Fargo
+JP Morgan
+Citigroup
+Bank of America
+0.0%
+0.5%
+1.0%
+1.5%
+0% 50% 100% 150%
+Long-Term
+Average ROA
+Normalized Standard Deviation of ROA
+Based on quarterly results, Q1 2009 through Q4 2015.
+Sources: Wells Fargo, Investor Day (May. 24, 2016); Wells Fargo, Credit Suisse Financial Services Forum (Feb. 9, 2016).
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 10
+Exhibit 2 — Wells Fargo: Cross-Selling Metrics
+Note: Shows the relationship between the number of products that a retail banking customer holds with Wells Fargo and the percentage of those customers who
+make an additional product purchase from Wells Fargo in the subsequent year.
+Relation Between Number of Products per customer and Future Purchases
+Retail Banking Profit per Customer
+Source: Wells Fargo, Investor Day (May 20, 2014).
+12%
+52%
+1 2 3 4 5 6 7 8+
+% Customers Purchasing
+Additional Product
+Products per Customer
+1x
+3x
+5x
+10x
+3 5 8 10+
+Profit per Customer
+Products per Customer
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 11
+Exhibit 3 — Wells Fargo: Selected Executive Compensation Provisions
+Note: Edited slightly for length.
+Source: Wells Fargo, Form DEF-14A (Mar. 16, 2016).
+Policy / Provision Requirement / Trigger
+Executive Officer Stock
+Ownership Policy
+Until one year following retirement, our executive officers must hold shares
+equal to at least 50% of the after-tax profit shares (assuming a 50% tax
+rate) acquired upon the exercise of options or vesting of RSRs [Restricted
+Share Rights] and Performance Shares, subject to a maximum requirement
+of ten times the executive officer’s cash salary.
+Unearned Compensation
+Recoupment
+Misconduct by an executive that contributes to the Company having to
+restate all or a significant portion of its financial statements.
+Extended Clawback Policy Incentive compensation was based on materially inaccurate financial
+information, whether or not the executive was responsible.
+Performance-Based Vesting
+Conditions
+Misconduct which has or might reasonably be expected to have
+reputational or other harm to the Company or any conduct that constitutes
+“cause.”
+Misconduct or commission of a material error that causes or might be
+reasonably expected to cause significant financial or reputational harm to
+the Company or the executive’s business group.
+Improper or grossly negligent failure, including in a supervisory capacity,
+to identify, escalate, monitor or manage in a timely manner and as
+reasonably expected, risks material to the Company or the executive’s
+business group.
+The Company or the executive’s business group suffers a material
+downturn in financial performance or suffers a material failure of risk
+management.
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 12
+$200
+$250
+$300
+$350
+$400
+$450
+Market Cap ($ billions)
+Exhibit 4 — Wells Fargo: Stock Price and Market capitalization
+Note: Prices of the KBW Bank Index re-indexed to coincide with Wells Fargo stock price as of September 1, 2016.
+Source: Yahoo! Finance.
+1. Wells Fargo announces $185 million settlement with CFPB and OCC.
+2. Stumpf resigns as CEO; replaced by Sloan.
+3. Wells Fargo board of directors releases report of independent investigation.
+4. Wells Fargo annual meeting; 9 directors reelected with less than 75 percent support.
+5. Wells Fargo discloses auto loan insurance violations; mortgage product violations.
+6. Wells Fargo increases the number of potentially unauthorized consumer accounts to 3.5 million.
+7. Federal Reserve imposes asset cap on Wells Fargo; the bank enters into a consent order.
+8. Wells Fargo announces $1 billion settlement with CFPB and OCC.
+1
+2
+3
+4 5
+6
+7
+8
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 13
+Exhibit 5 — Independent Investigation Report: Executive Summary (Excerpts)
+When the Independent Directors of the Board authorized this investigation, the purpose was to examine the root causes of
+sales practice abuses and to assess how issues of corporate structure and culture as well as individual actions contributed to
+the injuries inflicted upon Wells Fargo’s customers and the extraordinary damage to Wells Fargo’s brand and reputation, not
+merely to determine compensation or disciplinary action. The Board did so in the spirit of lessons to be learned, to promote
+accountability, to strengthen the organization and to minimize the likelihood of future occurrences. This section of the Report
+summarizes the factual findings of the investigation, which are developed in greater detail in the subsequent sections. …
+The Community Bank
+Wells Fargo, with its successful Community Bank, had a long history of strong performance as a self-identified sales organization
+with a decentralized corporate structure guided by its Vision & Values statement. While there is nothing necessarily pernicious
+about sales goals, a sales-oriented culture or a decentralized corporate structure, these same cultural and structural characteristics
+unfortunately coalesced and failed dramatically here. There was a growing conflict over time in the Community Bank between
+Wells Fargo’s Vision & Values and the Community Bank’s emphasis on sales goals. Aided by a culture of strong deference to
+management of the lines of business (embodied in the oft-repeated “run it like you own it” mantra), the Community Bank’s
+senior leaders distorted the sales model and performance
+management system, fostering an atmosphere that prompted low quality sales and improper and unethical behavior.
+Senior management in the Community Bank had a deep-seated adherence to its sales model. The model generally called for
+significant annual growth in the number of products, such as checking accounts, savings accounts and credit cards, sold each
+year. Even when challenged by their regional leaders, the senior leadership of the Community Bank failed to appreciate or
+accept that their sales goals were too high and becoming increasingly untenable.
+Over time, even as senior regional leaders challenged and criticized the increasingly unrealistic sales goals — arguing that they
+generated sales of products that customers neither needed nor used — the Community Bank’s senior management tolerated
+low quality accounts as a necessary by-product of a sales-driven organization. In particular, the Community Bank’s senior
+leaders were concerned that tightening up too much on quality would risk lowering sales of products that customers actively
+used; and, more generally, the senior leaders were reluctant to take steps that they believed might have a negative impact on the
+Community Bank’s financial performance. They also failed to adequately consider that low quality accounts could be indicative
+of unauthorized accounts. …
+To assist the investigation, Shearman & Sterling retained FTI Consulting. The firm analyzed various metrics to assist in
+determining the impact of the Community Bank’s sales culture. First, it examined Wells Fargo’s investigations data for allegations
+of sales integrity violations and associated terminations and resignations. And second, it analyzed information relating to the
+rate at which the Community Bank’s customers were funding — that is, making initial deposits into — new checking and
+savings accounts. While there can be many reasons a customer might not fund an account, lower funding rates (the proportion
+of new accounts with more than de minimis deposits) suggest that some customers were sold accounts that they may not have
+wanted or needed.
+Trends in the data show, perhaps not surprisingly, that as sales goals became harder to achieve, the number of allegations
+and terminations increased and the quality of accounts declined. Thus, the number of sales integrity-related allegations and
+associated terminations and resignations increased relatively steadily from the second quarter of 2007 and both peaked in the
+fourth quarter of 2013, when a newspaper article brought to light improper sales practices in Los Angeles. After the Community
+Bank and the corporate control functions started to focus more resources and attention on the problem and the growth of sales
+goals moderated somewhat starting in 2013, the number of sales integrity-related allegations and associated terminations and
+resignations steadily fell.
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 14
+Exhibit 5 — continued
+This was mirrored by the funding rate. It dropped steadily, from approximately 90% in 2005 to below 80% in 2012; it then rose
+somewhat in 2013, continued climbing thereafter, and exceeded 95% by 2016, paralleling Wells Fargo’s increasing focus on sales
+practices after 2013.
+As reflected in the reduction in plan sales goals for 2013, while the Community Bank did take steps over time to address issues
+associated with sales practice violations and aggressive sales goals, those steps were incremental, implemented slowly and
+insufficientto address the root cause of the problem. There was a disinclination among the Community Bank’s senior leadership,
+regardless of the scope of improper behavior or the number of terminated employees, to see the problem as systemic. It was
+common to blame employees who violated Wells Fargo’s rules without analyzing what caused or motivated them to do so. …
+In addition, keeping the sales model intact and sales growing meant that the Community Bank’s performance management
+system had to exert significant, and in some cases extreme, pressure on employees to meet or exceed their goals. Many
+employees felt that failing to meet sales goals could (and sometimes did) result in termination or career-hindering criticism
+by their supervisors. Employees who engaged in misconduct most frequently associated their behavior with sales pressure,
+rather than compensation incentives, although the latter contributed to problematic behavior by over-weighting sales as against
+customer service or other factors. Conversely, employees saw that the individuals most likely to be praised, rewarded and held
+out as models for success were high sales performers. …
+The Community Bank identified itself as a sales organization, like department or retail stores, rather than a service-oriented
+financial institution. This provided justification for a relentless focus on sales, abbreviated training and high employee turnover.
+Wells Fargo’s decentralized organizational structure and the deference paid to the lines of business contributed to the persistence
+of this environment. Carrie Tolstedt and certain of her inner circle were insular and defensive and did not like to be challenged
+or hear negative information. Even senior leaders within the Community Bank were frequently afraid of or discouraged from
+airing contrary views. Tolstedt effectively challenged and resisted scrutiny both from within and outside the Community Bank.
+She and her group risk officer not only failed to escalate issues outside the Community Bank, but also worked to impede such
+escalation, including by keeping from the Board information regarding the number of employees terminated for sales practice
+violations. Although they likely did so to give themselves freedom to address these issues on their own terms, rather than to
+encourage improper behavior, the dire consequences and cost to Wells Fargo are the same. …
+Senior Management
+John Stumpf
+… After decades of success, Stumpf was Wells Fargo’s principal proponent and champion of the decentralized business model
+and of cross-sell and the sales culture. His commitment to them colored his response when sales practice issues became more
+prominent in 2013 and subsequent years and led him to stand back and rely on the Community Bank to fix the problem, even in
+the face of growing indications that the situation was worsening and threatened substantial reputational harm to Wells Fargo.
+Because it was the responsibility of Community Bank leadership to run the business “like they owned it,” Stumpf did not engage
+in investigation and critical analysis to fully understand the problem. And, as discussed below, the corporate control functions
+that reported to him and upon which he relied were similarly constrained by Wells Fargo’s decentralized model.
+Stumpf’s commitment to the sales culture also led him to minimize problems with it, even when plausibly brought to his
+attention. Stumpf was by nature an optimistic executive who refused to believe that the sales model was seriously impaired. His
+reaction invariably was that a few bad employees were causing issues, but that the overwhelming majority of employees were
+behaving properly. He was too late and too slow to call for inspection of or critical challenge to the basic business model.
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 15
+Exhibit 5 — continued
+Stumpf’s long-standing working relationship with Tolstedt influenced his judgment as well. Tolstedt reported to Stumpf until
+late 2015 and he admired her as a banker and for the contributions she made to the Community Bank over many years. At the
+same time, he was aware that many doubted that she remained the right person to lead the Community Bank in the face of sales
+practice revelations, including the Board’s lead independent director and the head of its Risk Committee. Stumpf nonetheless
+moved too slowly to address the management issue. …
+Corporate Control Organizations
+Sections of the Report below describe how Wells Fargo control functions, specifically Corporate Risk, the Law Department,
+Human Resources, Internal Investigations and Audit, dealt with sales practice issues in the Community Bank. Several common
+themes — again, substantially related to Wells Fargo’s culture and structure — hampered the ability of these organizations to
+effectively analyze, size and escalate sales practice issues.
+First, Wells Fargo’s decentralized organizational structure meant that centralized functions had parallel units in the Community
+Bank, which impeded corporate-level insight into and influence over the Community Bank. Historically, the risk function at
+Wells Fargo was highly decentralized. The line of business risk managers were answerable principally to the heads of their
+businesses and yet took the lead in assessing and addressing risk within their business units. The Risk Committee of the Board,
+consisting of the chairs of all the Board’s standing committees, was created in 2011 to oversee risk across the enterprise. This
+involved a multi-year plan starting in 2013 to substantially grow Corporate Risk, to move toward centralization of more risk
+functions and to enhance Corporate Risk’s ability to oversee the management of risk in the lines of business. Consistent with
+this plan, the Board supported major funding increases for Corporate Risk for 2014-2016. But, as problems with sales practices
+in the Community Bank became more apparent in 2013-2015, Corporate Risk was still a work in progress and the Chief Risk
+Officer had limited authority with respect to the Community Bank. As events were unfolding, his visibility into risk issues at
+the Community Bank was hampered by his dependence on its group risk officer and he was essentially confined to attempting
+to cajole and persuade Tolstedt and the Community Bank to be more responsive to sales practice-related risks.
+Similarly, the decentralized structure of Human Resources contributed to a lack of visibility into the scope and nature of sales
+practice problems. Almost all sales integrity cases and issues touched upon some facet of the HR function, including with
+respect to employee terminations, hiring, training, coaching, discipline, incentive compensation, performance management,
+turnover, morale, work environment, claims and litigations. Despite this, there was no coordinated effort by HR, either within
+the Community Bank or in Corporate HR, to track, analyze or report on sales practice issues.
+The fragmentation and decentralization of control functions needs to be and is being addressed. …
+Second, and relatedly, the culture of substantial deference accorded to the lines of business carried over into the control
+functions. Even when senior executives came to recognize that sales practice issues within the Community Bank were a serious
+problem or were not being addressed timely and sufficiently, they relied on Tolstedt and her senior managers to carry out
+corrective actions. This culture of deference was particularly powerful in this instance since Tolstedt was respected for her
+historical success at the Community Bank, was perceived to have strong support from the CEO and was notoriously resistant
+to outside intervention and oversight.
+Third, certain of the control functions often adopted a narrow “transactional” approach to issues as they arose. They focused
+on the specific employee complaint or individual lawsuit that was before them, missing opportunities to put them together in a
+way that might have revealed sales practice problems to be more significant and systemic than was appreciated. As an example,
+while HR had a great deal of information recorded in its systems, it had not developed the means to consolidate information on
+sales practice issues and to report on them.
+Electronic copy available at: https://ssrn.com/abstract=2879102
+The Wells Fargo Cross-Selling Scandal
+Google finance academy 16
+Exhibit 5 — continued
+Source: Independent Director of the Board of Wells Fargo & Company: Sales Practices Investigation Report, (April 10, 2017).
+Similarly, attorneys in the Law Department’s Employment Section had visibility into the scope and causes of sales practice
+misconduct and in fact made commendable attempts to address it through, among other things, work on various committees.
+However, the Law Department, particularly at its senior levels, did not discuss or appreciate the seriousness and scale of sales
+practice issues within the Community Bank or fully consider whether there might be a pattern of illegal conduct involved.
+Rather, the Department’s focus was on advising on discrete legal problems as they arose and on managing Wells Fargo’s exposure
+to specific litigation risks.
+The same holds true for Audit. Audit reviewed relevant controls and processes and largely found them to be effective; however,
+while it had access to information regarding sales practice concerns, it did not view its role to include analyzing more broadly
+the root cause of improper conduct.
+Finally, until as late as 2015, even as sales practices were labeled a “high risk” in materials provided to the Risk Committee of
+the Board, there was a general perception within Wells Fargo’s control functions that sales practice abuses were a problem
+of relatively modest significance, the equivalent of a tolerable number of minor infractions or victimless crimes. This under
+reaction to sales practice issues resulted in part from the incorrect belief, extending well into 2015, that improper practices did
+not cause any “customer harm”; and “customer harm” itself was narrowly construed to mean only financial harm such as fees
+and penalties. This flawed perspective made it easy to undervalue the risk to Wells Fargo’s brand and reputation arising from
+the misuse of customer information and the breaches of trust occasioned by
+improper sales practices. …
+Electronic copy available at: https://ssrn.com/abstract=2879102
