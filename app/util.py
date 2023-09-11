@@ -1,8 +1,9 @@
+from datetime import datetime, timedelta
 from typing import Dict, Tuple, List
 import time
 import concurrent.futures
 import openai
-from app.config import EMBEDDING_MODEL, TOP_N, MAX_LENGTH, GPT_MODEL, TOKENIZER
+from app.config import EMBEDDING_MODEL, TOP_N, MAX_LENGTH, GPT_MODEL, ALLOWED_EXTENSIONS, MAIN_TEMP_DIR
 import tiktoken
 from scipy import spatial
 import os
@@ -11,6 +12,64 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 import pandas as pd
 from PyPDF2 import PdfReader
 import docx2txt
+import requests
+import shutil
+
+
+def check_api_key(api_key: str) -> bool:
+    openai.api_key = api_key
+
+    try:
+        headers = {
+            'Authorization': f'Bearer {api_key}',
+        }
+        response = requests.get('https://api.openai.com/v1/models', headers=headers)
+        if response.status_code == 200:
+            return True
+    except requests.exceptions.RequestException:
+        return False
+
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+
+def remove_directory(directory_path):
+    if not os.path.exists(directory_path):
+        print(f"The directory {directory_path} does not exist.")
+        return
+    shutil.rmtree(directory_path)
+    print(f"The directory {directory_path} has been removed.")
+
+
+def is_stale(path, threshold_minutes=180):
+    mtime = datetime.fromtimestamp(os.path.getmtime(path))
+    return datetime.utcnow() - mtime > timedelta(minutes=threshold_minutes)
+
+
+def cleanup_path(path, threshold_minutes=180):
+    for root, dirs, files in os.walk(path, topdown=False):  # `topdown=False` ensures we iterate from leaves to root
+        for file in files:
+            file_path = os.path.join(root, file)
+            if is_stale(file_path, threshold_minutes):
+                try:
+                    os.remove(file_path)
+                    print(f"Deleted stale file: {file_path}")
+                except (OSError, Exception) as e:
+                    print(f"Error deleting file {file_path}: {e}")
+
+        for dir in dirs:
+            dir_path = os.path.join(root, dir)
+            if is_stale(dir_path, threshold_minutes):
+                try:
+                    shutil.rmtree(dir_path)
+                    print(f"Deleted stale directory: {dir_path}")
+                except (OSError, Exception) as e:
+                    print(f"Error deleting directory {dir_path}: {e}")
+
+
+def scheduled_cleanup():
+    cleanup_path(MAIN_TEMP_DIR)
 
 
 def get_first_10_words(text):

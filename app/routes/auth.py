@@ -1,5 +1,6 @@
 from flask import Blueprint, session, request
 import openai
+from app.util import check_api_key
 
 bp = Blueprint('auth', __name__)
 
@@ -7,6 +8,10 @@ bp = Blueprint('auth', __name__)
 @bp.route('/set_api_key', methods=['POST'])
 def set_api_key():
     api_key = request.form.get('api_key')
+
+    if not check_api_key(api_key):
+        return "Invalid API Key", 400
+
     session['api_key'] = api_key
     openai.api_key = api_key
 

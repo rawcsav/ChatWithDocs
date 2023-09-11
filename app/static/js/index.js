@@ -1,6 +1,20 @@
 async function uploadDocuments() {
   const formData = new FormData(document.querySelector("#uploadForm"));
 
+  // Check for duplicates before uploading
+  const existingFiles = [
+    ...document.querySelectorAll("#uploaded_docs_list li"),
+  ].map((li) => li.textContent.trim());
+  for (let file of formData.getAll("file")) {
+    if (existingFiles.includes(file.name)) {
+      showAlert(
+        `The file "${file.name}" is already uploaded. Skipping duplicate.`,
+        "warning",
+      );
+      formData.delete("file"); // Remove the file from formData to prevent upload
+    }
+  }
+
   try {
     const response = await fetch("/upload", {
       method: "POST",
@@ -11,30 +25,23 @@ async function uploadDocuments() {
 
     if (data.status === "success") {
       let uploadedCount = 0;
+      const docList = document.getElementById("uploaded_docs_list");
+
       for (let msg of data.messages) {
         if (msg.includes("processed successfully")) {
           uploadedCount += 1;
+          const docNameWithExtension = msg.split(" ")[1];
+          const docName = docNameWithExtension.split(".")[0];
+          const listItem = document.createElement("li");
+          listItem.innerHTML = `<input type="checkbox" name="selected_docs" value="${docName}" checked> ${docName}`;
+          docList.appendChild(listItem);
         }
-        showAlert(msg, "success");
       }
 
       if (uploadedCount > 0) {
         showAlert(`${uploadedCount} files uploaded successfully.`, "success");
-
-        // Enable the query section once at least one document is uploaded
-        document.getElementById("query-section").style.display = "block";
-
-        // Update the list of uploaded documents
-        const docList = document.getElementById("uploaded_docs_list");
-        for (let msg of data.messages) {
-          if (msg.includes("processed successfully")) {
-            const docNameWithExtension = msg.split(" ")[1];
-            const docName = docNameWithExtension.split(".")[0];
-            const listItem = document.createElement("li");
-            listItem.innerHTML = `<input type="checkbox" name="selected_docs" value="${docName}" checked> ${docName}`;
-            docList.appendChild(listItem);
-          }
-        }
+      } else {
+        showAlert("No files uploaded successfully.", "danger");
       }
     } else {
       for (let msg of data.messages) {
@@ -89,21 +96,24 @@ async function queryDocument() {
     if (response.ok) {
       const reader = response.body.getReader();
       let decoder = new TextDecoder();
-      const responseLabelElement = document.getElementById("response_label");
-      responseLabelElement.style.display = "block";
+      const responseLabelContainer =
+        document.getElementById("response_container");
+      const resultsSpan = document.getElementById("results");
+      responseLabelContainer.style.display = "block";
+
       while (true) {
         const { value, done } = await reader.read();
         if (done) {
           break;
         }
-        preElement.textContent += decoder.decode(value);
+        resultsSpan.textContent += decoder.decode(value);
       }
     } else {
-      resultsDiv.innerHTML =
+      resultsSpan.innerHTML =
         '<span style="color:red;">Error querying the document.</span>';
     }
   } catch (error) {
-    resultsDiv.innerHTML =
+    resultsSpan.innerHTML =
       '<span style="color:red;">There was an error processing your request.</span>';
   }
 }

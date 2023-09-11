@@ -1,6 +1,6 @@
-from flask import session, request, stream_with_context, Blueprint, current_app, jsonify
-import pandas as pd
 import os
+import pandas as pd
+from flask import session, request, stream_with_context, Blueprint, current_app
 from app.util import ask
 
 bp = Blueprint('query', __name__)
@@ -25,4 +25,6 @@ def query_endpoint():
         for content in ask(query, df, api_key, specific_documents=selected_docs):
             yield content
 
-    return current_app.response_class(stream_with_context(generate()), content_type='text/plain')
+    response = current_app.response_class(stream_with_context(generate()), content_type='text/plain')
+    response.headers['X-Accel-Buffering'] = 'no'
+    return response

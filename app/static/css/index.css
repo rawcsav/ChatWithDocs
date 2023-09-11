@@ -1,4 +1,3 @@
-/* Base Styles */
 body {
   font-family: "Neue Haas Grotesk Display Pro", sans-serif;
   padding: 30px;
@@ -79,6 +78,14 @@ button {
   width: 80%;
 }
 
+#response_container pre {
+  margin: 0;
+  display: inline;
+  font-family: "Helvetica Neue", serif;
+  white-space: pre-wrap; /* This will make the content wrap */
+  word-wrap: break-word;
+}
+
 #results pre {
   font-family: "Helvetica Neue", serif;
   white-space: pre-wrap; /* This will make the content wrap */
@@ -109,14 +116,6 @@ button {
   align-items: stretch;
   gap: 20px;
 }
-.instructions-container {
-  border: 2px solid red; /* Temporary red border */
-}
-
-.form-container.api-key-container,
-.form-container.upload-container {
-  border: 2px solid blue; /* Temporary blue border */
-}
 
 .instructions-container {
   align-content: flex-start;
@@ -139,6 +138,7 @@ button {
   align-items: flex-start;
   gap: 20px;
   margin-top: 40px;
+  margin-bottom: 18%;
 }
 
 #input-and-docs-section {
@@ -165,4 +165,9 @@ button {
 
 .bold {
   font-weight: bold !important;
+}
+
+.footer {
+  font-family: "Helvetica Neue", sans-serif;
+  text-align: center;
 }
